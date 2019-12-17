@@ -136,7 +136,7 @@ nav a:hover {
 	text-align: center;
 }
 
-.box{
+.box {
 	width: 389px;
 	height: auto;
 	vertical-align: middle;
@@ -182,7 +182,7 @@ hr {
 	border: 1px solid black;
 }
 
-.top{
+.top {
 	width: 45%;
 	height: auto;
 	text-align: left;
@@ -207,7 +207,7 @@ hr {
 	width: 80%;
 }
 
-.bottom{
+.bottom {
 	width: 33%;
 	height: auto;
 	text-align: left;
@@ -352,7 +352,7 @@ footer {
 	margin-bottom: 30px;
 }
 
-.services-bottom-content p{
+.services-bottom-content p {
 	font-size: 2.3rem;
 	margin-bottom: 30px;
 	line-height: 1.2
@@ -399,7 +399,7 @@ ul li {
 		justify-content: space-evenly;
   }
 
-	.box h1{
+	.box h1 {
 		margin-left: 0;
 		margin-right: 0;
 		margin-top: 2.4rem;
@@ -447,7 +447,7 @@ ul li {
 		transition: background-size .5s ease;
 		}
 
-  	.box h1{
+  	.box h1 {
 		margin-left: 0;
 		margin-right: 0;
 		font-size: 80px;
@@ -483,7 +483,7 @@ ul li {
 		transition: background-size .5s ease;
   	}
 
-  	.box h1{
+  	.box h1 {
 		margin-left: 0;
 		margin-right: 0;
 		font-size: 8rem;
@@ -534,7 +534,7 @@ ul li {
 	.main-content {
 		flex-direction: column;
 		margin: 0 auto;
-	}
+	}	
 
 	.services-header-img{
 		margin-top: 1px;
